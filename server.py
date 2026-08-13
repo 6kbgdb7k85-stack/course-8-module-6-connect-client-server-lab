@@ -5,7 +5,7 @@ from data import Event
 
 events = [
     Event(0,"Event 1"),
-    Event(0,"Event 2")
+    Event(1,"Event 2")
 ]
 
 app = Flask(__name__)
